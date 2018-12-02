@@ -12,7 +12,10 @@ body {
   }
    /* sticky footer styling */
    /* https://css-tricks.com/snippets/css/sticky-footer/ */
-   html,
+  * {
+    margin: 0;
+  } 
+  html,
   body {
     height: 100%;
   }
