@@ -14,7 +14,7 @@ body {
    /* https://css-tricks.com/snippets/css/sticky-footer/ */
   * {
     margin: 0;
-  } 
+  }
   html,
   body {
     height: 100%;
@@ -23,7 +23,7 @@ body {
     height: auto;
     height: 100%;
     min-height: 100%;
-    margin: 0 auto -105px;
+    margin: 0 auto -150px;
   }
    footer,
   .push {
@@ -208,6 +208,7 @@ body {
       width: 100%;
       max-width: 960px;
   }
+
 .auth-image{
     float: left;
     width: 200px;
